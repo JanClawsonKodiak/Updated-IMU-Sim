@@ -1,4 +1,13 @@
-# GNSS-INS-SIM
+# Jan Information
+
+Hey Court and Quresh!
+
+main.py should be able to be run. You can choose a number of paths I have premade for you, just uncomment then.
+
+You can run a bunch of simulations changing parameters by hand. If you need to do a parameter sweep let me know, I can help, or you can just write the for loops!
+
+
+# ACEINNA INFORMATION ON GNSS-INS-SIM
 
 **GNSS-INS-SIM** is an GNSS/INS simulation project, which generates reference trajectories, IMU sensor output, GPS output, odometer output and magnetometer output. Users choose/set up the sensor model, define the waypoints and provide algorithms, and **gnss-ins-sim** can generate required data for the algorithms, run the algorithms, plot simulation results, save simulations results, and generate a brief summary.
 
